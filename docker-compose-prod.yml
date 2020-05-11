@@ -1,0 +1,26 @@
+version: '2'
+
+networks:
+  traefik:
+    external:
+      name: traefik_traefik-net
+
+services:
+
+  idle-game:
+    image: node:8.2
+    volumes:
+      - ./:/var/www/idle-game
+    working_dir: /var/www/idle-game
+    command: yarn start
+    networks:
+      - default
+      - traefik
+    labels:
+      - "traefik.enable=true"
+      - "traefik.backend=idle-game-client-web"
+      - "traefik.frontend.rule=Host:idle-game.scriptcie.nl"
+      - "traefik.port=3000"
+      - "traefik.docker.network=traefik_traefik-net"
+    environment:
+      - REACT_APP_API_SERVER=http://idle-game-api.scriptcie.nl
