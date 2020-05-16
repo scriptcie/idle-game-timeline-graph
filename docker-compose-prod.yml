@@ -12,15 +12,15 @@ services:
     volumes:
       - ./:/var/www/idle-game
     working_dir: /var/www/idle-game
-    command: yarn start
+    command: npm run serve
     networks:
       - default
       - traefik
     labels:
       - "traefik.enable=true"
-      - "traefik.backend=idle-game-client-web"
-      - "traefik.frontend.rule=Host:idle-game.scriptcie.nl"
-      - "traefik.port=3000"
+      - "traefik.backend=idle-game-timeline-client-web"
+      - "traefik.frontend.rule=Host:corona-timeline.scriptcie.nl"
+      - "traefik.port=5000"
       - "traefik.docker.network=traefik_traefik-net"
     environment:
       - REACT_APP_API_SERVER=http://idle-game-api.scriptcie.nl
