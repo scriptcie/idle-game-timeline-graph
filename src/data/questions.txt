@@ -1,0 +1,42 @@
+{
+    "pythagorean_hero_triangles": {
+        "name": "Pythagorean perimareal triangles",
+        "points": 10,
+        "price": 250
+    },
+     "avg_distance_in_square": {
+        "name": "Average distance in the Francken room",
+        "points": 10,
+        "price": 500
+    },
+    "lockercode": {
+        "name": "Dijkstra's Treasure",
+        "points": 10,
+        "price": 2500
+    },
+    "decode_img_rgb": {
+        "name": "Homework copy",
+        "points": 10,
+        "price": 5000
+    },
+    "dice_juf": {
+        "name": "Dobbel juf",
+        "points": 10,
+        "price": 25000
+    },
+    "decode_img_12": {
+        "name": "12 bit gray scale image",
+        "points": 10,
+        "price": 100000
+    },
+    "dice_juf_vs_juf": {
+        "name": "To dobbel juf or to juf?",
+        "points": 10,
+        "price": 500000
+    },
+    "vanEck": {
+        "name": "You don't know me",
+        "points": 10,
+        "price": 5000000
+    }
+}

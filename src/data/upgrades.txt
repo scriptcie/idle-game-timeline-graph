@@ -1,0 +1,50 @@
+{
+    "Personal_space_upgrade": {
+      "name": "Personal closed off area",
+      "base_price": 250,
+      "base_bps": 2,
+      "requirement": "pythagorean_hero_triangles"
+    },
+    "Larger_room_upgrade": {
+      "name": "Large enough room",
+      "base_price": 500,
+      "base_bps": 3,
+      "requirement": "avg_distance_in_square"
+    },
+    "Jewels_upgrade": {
+      "name": "Epic Book Collection Background (+1 book)",
+      "base_price": 666,
+      "base_bps": 4,
+      "requirement": "lockercode"
+    },
+    "Digital_communications_upgrade": {
+      "name": "Digital communications",
+      "base_price": 7500,
+      "base_bps": 30,
+      "requirement": "decode_img_rgb"
+    },
+    "Hard_core_gaming_upgrade": {
+      "name": "Hard core gaming",
+      "base_price": 40000,
+      "base_bps": 80,
+      "requirement": "dice_juf"
+    },
+    "Effective_counter_intelligence_upgrade": {
+      "name": "Effective counter intelligence",
+      "base_price": 200000,
+      "base_bps": 300,
+      "requirement": "decode_img_12"
+    },
+    "Old-skool_hard_core_gaming_upgrade": {
+      "name": "Old-skool hard core gaming",
+      "base_price": 1000000,
+      "base_bps": 1250,
+      "requirement": "dice_juf_vs_juf"
+    },
+    "Dementia_upgrade": {
+      "name": "Dementia",
+      "base_price": 10000000,
+      "base_bps": 10000,
+      "requirement": "vanEck"
+    }
+}

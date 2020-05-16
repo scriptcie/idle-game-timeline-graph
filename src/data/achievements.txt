@@ -1,0 +1,578 @@
+{
+    "Well prepared": {
+        "name": "Well prepared",
+        "description": "Attend the vrijmibo coding crash course",
+        "challenge points": 1,
+        "bps": 1,
+        "requirement": {
+            "manual": "Well_prepared"
+        }
+    },
+    "Home schooling": {
+        "name": "Home schooling",
+        "description": "Assist with the homeschooling of our young ones. Earn these challenge points by taking a novice programmer under your wings and help guide them to completing their first coding challenge!",
+        "challenge points": 5,
+        "bps": 5,
+        "requirement": {
+            "manual": "Home_schoolding"
+        }
+    },
+    "Click": {
+        "name": "Got started",
+        "description": "click once",
+        "challenge points": 1,
+        "requirement": {
+            "clicks": 1
+        }
+    },
+    "Click10": {
+        "name": "1 click per finger",
+        "description": "click 10 times",
+        "challenge points": 1,
+        "requirement": {
+            "clicks": 10
+        }
+    },
+    "Click100": {
+        "name": "100 bottles of Corona on the wall",
+        "description": "click 100 times",
+        "challenge points": 1,
+        "bpc": 1,
+        "requirement": {
+            "clicks": 100
+        }
+    },
+    "Click1000": {
+        "name": "Who needs to solve problems anyway?",
+        "description": "click 1000 times",
+        "challenge points": 1,
+        "bpc": 1,
+        "requirement": {
+            "clicks": 1000
+        }
+    },
+    "Click10000": {
+        "name": "Do you have what it takes to do 100000?",
+        "description": "click 10000 times",
+        "challenge points": 3,
+        "bpc": 1,
+        "requirement": {
+            "clicks": 10000
+        }
+    },
+    "Click100000": {
+        "name": "We didn't expect anyone to get this many clicks",
+        "description": "click 100000 times",
+        "challenge points": 10,
+        "bpc": 1,
+        "requirement": {
+            "clicks": 100000
+        }
+    },
+    "Motivation1E2": {
+        "name": "Have you bought a question yet?",
+        "description": "100 all time motivation",
+        "challenge points": 1,
+        "requirement": {
+            "balls": 100
+        }
+    },
+    "Motivation1E3": {
+        "name": "How much motivation? DUUZEND!!!",
+        "description": "1000 all time motivation",
+        "challenge points": 1,
+        "requirement": {
+            "balls": 1000
+        }
+    },
+    "Motivation1E4": {
+        "name": "MOAR motivation!",
+        "description": "10000 all time motivation",
+        "challenge points": 1,
+        "requirement": {
+            "balls": 10000
+        }
+    },
+    "Motivation1E5": {
+        "name": "A ton of motivation",
+        "description": "100000 all time motivation",
+        "challenge points": 1,
+        "requirement": {
+            "balls": 100000
+        }
+    },
+    "Motivation1E6": {
+        "name": "And you get motivation, and you, and you, everybody gets motivation",
+        "description": "1000000 all time motivation",
+        "challenge points": 2,
+        "requirement": {
+            "balls": 1000000
+        }
+    },
+    "Motivation1E7": {
+        "name": "And this... is... to go... even further beyond!",
+        "description": "10000000 all time motivation",
+        "challenge points": 3,
+        "requirement": {
+            "balls": 10000000
+        }
+    },
+    "Motivation1E8": {
+        "name": "What's he doing!?",
+        "description": "100000000 all time motivation",
+        "challenge points": 4,
+        "requirement": {
+            "balls": 100000000
+        }
+    },
+    "Motivation1E9": {
+        "name": "AAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!",
+        "description": "1000000000 all time motivation",
+        "challenge points": 5,
+        "requirement": {
+            "balls": 1000000000
+        }
+    },
+    "Question1": {
+        "name": "Yay, I solved a problem!",
+        "description": "1 question answered",
+        "challenge points": 1,
+        "requirement": {
+            "questions_answered": 1
+        }
+    },
+    "Question3": {
+        "name": "Yay, I'm actually compiling",
+        "description": "3 questions answered",
+        "challenge points": 1,
+        "requirement": {
+            "questions_answered": 3
+        }
+    },
+    "Question5": {
+        "name": "Way to code!",
+        "description": "5 questions answered",
+        "challenge points": 2,
+        "requirement": {
+            "questions_answered": 5
+        }
+    },
+    "Question7": {
+        "name": "Did you solve the juf-question yet?",
+        "description": "7 questions answered",
+        "challenge points": 1,
+        "requirement": {
+            "questions_answered": 7
+        }
+    },
+    "Question10": {
+        "name": "It's gotta be a tien!",
+        "description": "10 questions answered",
+        "challenge points": 1,
+        "requirement": {
+            "questions_answered": 10
+        }
+    },
+    "Question11": {
+        "name": "Mas problemas por favor!",
+        "description": "all questions answered",
+        "challenge points": 5,
+        "requirement": {
+            "questions_answered": 11
+        }
+    },
+    "Beer1": {
+        "name": "One beer is a hoax!",
+        "description": "1 drink drunk",
+        "challenge points": 0,
+        "requirement": {
+            "crash_points": 1
+        }
+    },
+    "Beer2": {
+        "name": "Cheers!",
+        "description": "2 drinks drunk",
+        "challenge points": 1,
+        "requirement": {
+            "crash_points": 2
+        }
+    },
+    "Beer4": {
+        "name": "Going for the motivational ballmer peak?",
+        "description": "4 drinks drunk",
+        "challenge points": 1,
+        "requirement": {
+            "crash_points": 4
+        }
+    },
+    "Beer8": {
+        "name": "A byte of beer!",
+        "description": "8 drinks drunk",
+        "challenge points": 2,
+        "requirement": {
+            "crash_points": 8
+        }
+    },
+    "Beer12": {
+        "name": "Half a crate!",
+        "description": "12 drinks drunk",
+        "challenge points": 3,
+        "requirement": {
+            "crash_points": 12
+        }
+    },
+    "Beer24": {
+        "name": "Adje kradje!!",
+        "description": "24 drinks drunk",
+        "challenge points": 4,
+        "requirement": {
+            "crash_points": 24
+        }
+    },
+    "Upgrade1": {
+        "name": "Starting to Idle!",
+        "description": "1 upgrade bought",
+        "challenge points": 1,
+        "requirement": {
+            "upgrades_bought": 1
+        }
+    },
+    "Upgrade10": {
+        "name": "Starting to produce!",
+        "description": "10 upgrades bought",
+        "challenge points": 1,
+        "requirement": {
+            "upgrades_bought": 10
+        }
+    },
+    "Upgrade25": {
+        "name": "Where do all these motivation come from!",
+        "description": "25 upgrades bought",
+        "challenge points": 2,
+        "requirement": {
+            "upgrades_bought": 25
+        }
+    },
+    "Upgrade50": {
+        "name": "Too much motivation to spent!",
+        "description": "50 upgrades bought",
+        "challenge points": 3,
+        "requirement": {
+            "upgrades_bought": 50
+        }
+    },
+    "Upgrade75": {
+        "name": "Monopolized motivation",
+        "description": "75 upgrades bought",
+        "challenge points": 4,
+        "requirement": {
+            "upgrades_bought": 75
+        }
+    },
+    "Wrong1": {
+        "name": "One failure shouldn't set you back!",
+        "description": "submitted 1 wrong answer",
+        "challenge points": 1,
+        "requirement": {
+            "wrongly_answered": 1
+        }
+    },
+    "Wrong5": {
+        "name": "Please don't ragequit",
+        "description": "submitted 5 wrong answers",
+        "challenge points": 2,
+        "requirement": {
+            "wrongly_answered": 5
+        }
+    },
+    "Wrong10": {
+        "name": "Did you actually try to solve anything yet?",
+        "description": "submitted 10 wrong answers",
+        "challenge points": 3,
+        "requirement": {
+            "wrongly_answered": 10
+        }
+    },
+    "Allround1": {
+        "name": "Did you do [111]?",
+        "description": "At least 1 point in each competition",
+        "challenge points": 1,
+        "requirement": {
+            "min_points_in_comps": 1
+        }
+    },
+    "Allround5": {
+        "name": "Mo achievements, mo multipliers",
+        "description": "At least 5 points in each competition",
+        "challenge points": 2,
+        "requirement": {
+            "min_points_in_comps": 5
+        }
+    },
+    "Allround10": {
+        "name": "The jury rates this achievement 10/10/10",
+        "description": "At least 10 points in each competition",
+        "challenge points": 3,
+        "requirement": {
+            "min_points_in_comps": 10
+        }
+    },
+    "Allround20": {
+        "name": "The hardest part was drinking the beers",
+        "description": "At least 20 points in each competition",
+        "challenge points": 5,
+        "requirement": {
+            "min_points_in_comps": 20
+        }
+    },
+    "TFV OLE": {
+        "name": "Want wij zijn ....",
+        "description": "Sing the Francken song",
+        "challenge points": 10,
+        "bps": 25,
+        "requirement": {
+            "manual": "sing"
+        }
+    },
+    "Chwazi": {
+        "name": "My definition of losing might be different from yours",
+        "description": "Lose a game of chwazi",
+        "challenge points": 5,
+        "bps": 1,
+        "requirement": {
+            "manual": "chwazi_lost"
+        }
+    },
+    "Hapjesmeisje": {
+        "name": "En natuurlijk de hapjesmeisjes, 'bedrankt!",
+        "description": "Show your appreciation to the committee",
+        "challenge points": 5,
+        "bps": 5,
+        "requirement": {
+            "manual": "appreciation_shown"
+        }
+    },
+    "Bribery": {
+        "name": "1 victory, please!",
+        "description": "Motivate the committee to give you points.",
+        "challenge points": 10,
+        "bps": 50,
+        "requirement": {
+            "manual": "motivation_brought"
+        }
+    },
+    "Brainiac": {
+        "name": "I can do science, me!",
+        "description": "Solve a problem without coding",
+        "challenge points": 10,
+        "bps": 10,
+        "requirement": {
+            "manual": "no_code_solution"
+        }
+    },
+    "Nice outfit, brah!": {
+        "name": "Nice outfit, brah!",
+        "description": "Bring your best outfit",
+        "challenge points": 10,
+        "bps": 10,
+        "requirement": {
+            "manual": "Dress_up"
+        }
+    },
+    "Closet raider": {
+        "name": "Closet raider",
+        "description": "Wear as many themed outfits as questions submitted",
+        "challenge points": 20,
+        "bps": 100,
+        "requirement": {
+            "manual": "Closet_raider"
+        }
+    },
+    "13": {
+        "name": "Gebouw13",
+        "description": "Drink building13 beer",
+        "challenge points": 1,
+        "bps": 3,
+        "requirement": {
+            "manual": "gebouw13"
+        }
+    },
+    "Corona": {
+        "name": "Corona",
+        "description": "Drink Corona beer",
+        "challenge points": 1,
+        "bps": 3,
+        "requirement": {
+            "manual": "drink_corona"
+        }
+    },
+    "Outbreak prevention": {
+        "name": "Outbreak prevention",
+        "description": "Show the committee that you're well prepared for an outbreak",
+        "challenge points": 3,
+        "bps": 3,
+        "requirement": {
+            "manual": "outbreak_prevention"
+        }
+    },
+    "Addicted to klaverjas": {
+        "name": "Addicted to klaverjas",
+        "description": "Play at least 4 hands of klaverjas on https://vierde-man.nl against another team during the Crash & Compile",
+        "challenge points": 5,
+        "bps": 10,
+        "requirement": {
+            "manual": "play_klaverjas"
+        }
+    },
+    "Win a game of Klaverjas": {
+        "name": "Win a game of klaverjas",
+        "description": "Win a game of klaverjas on https://vierde-man.nl against another team competing in the Crash & Compile. May be completed before the start of the Crash & Compile.",
+        "challenge points": 10,
+        "bpc": 10,
+        "requirement": {
+            "manual": "win_klaverjas"
+        }
+    },
+    "singalong": {
+        "name": "Singalong",
+        "description": "Help us beat cabin fever by writing an uplifting song about the joys of coding in pyjamas",
+        "challenge points": 10,
+        "bps": 10,
+        "requirement": {
+            "manual": "singalong"
+        }
+    },
+    "Better than pluimpje": {
+        "name": "Better than pluimpje",
+        "description": "Show that you're staying active during this crisis by doing more than 10 pushups",
+        "challenge points": 4,
+        "bps": 10,
+        "requirement": {
+            "manual": "better_than_pluimpje"
+        }
+    },
+    "Corona feut": {
+        "name": "Corona feut",
+        "description": "Have someone else clean your keyboard while maintaining a distance of 1.5 meters",
+        "challenge points": 5,
+        "bpc": 10,
+        "requirement": {
+            "manual": "corona_feut"
+        }
+    },
+    "hashtag notalone": {
+        "name": "#notalone",
+        "description": "Send a personalized video showing that you miss the members of the S[ck]rip(t|t?c)ie. Points will be deducted for every missing member.",
+        "challenge points": 10,
+        "bps": 10,
+        "requirement": {
+            "manual": "notalone"
+        }
+    },
+    "One liner": {
+        "name": "One liner",
+        "description": "Solve a question using only one line of code",
+        "challenge points": 10,
+        "bps": 10,
+        "requirement": {
+            "manual": "one_liner"
+        }
+    },
+    "Tested positive": {
+        "name": "Tested positive",
+        "description": "Use test driven development to solve one of the problems",
+        "challenge points": 10,
+        "bps": 25,
+        "requirement": {
+            "manual": "test_driven_development"
+        }
+    },
+    "100 percent test coverage": {
+        "name": "100% test coverage",
+        "description": "Show that your code has 100% test coverage",
+        "challenge points": 10,
+        "bps": 100,
+        "requirement": {
+            "manual": "test_coverage"
+        }
+    },
+    "Mutation testing": {
+        "name": "Mutation testing",
+        "description": "Explain in chat the advantages of using mutation testing to develop software",
+        "challenge points": 10,
+        "bps": 10,
+        "requirement": {
+            "manual": "mutation_testing"
+        }
+    },
+    "Intensive care": {
+        "name": "Intensive care",
+        "description": "(N)ICE someone in your home",
+        "challenge points": 1,
+        "bpc": 10,
+        "requirement": {
+            "manual": "intensive_care"
+        }
+    },
+    "Broek uit op je hoofd!": {
+        "name": "Broek uit op je hoofd!",
+        "description": "No need to wear pants while working from home. Well, not on your bottoms anyway... ;)",
+        "challenge points": 1,
+        "bpc": 2,
+        "requirement": {
+            "manual": "broek_uit_op_je_hoofd"
+        }
+    },
+    "Franckenfruit": {
+        "name": "Franckenfruit",
+        "description": "Stay healthy, eat a papaya.",
+        "challenge points": 10,
+        "bpc": 1,
+        "requirement": {
+            "manual": "franckenfruit"
+        }
+    },
+    "Colourful greetings": {
+        "name": "Colourful greetings",
+        "description": "Extra credit question ##",
+        "challenge points": 15,
+        "bpc": 1,
+        "requirement": {
+            "manual": "colourful_greetings"
+        }
+    },
+    "Delivery Girl": {
+        "name": "Delivery Girl",
+        "description": "Deliver beer to one of the committee members, while adhering to the health regulations. Must be done before the Crash & Compile.",
+        "challenge points": 13,
+        "bps": 2,
+        "requirement": {
+            "manual": "delivery_girl"
+        }
+    },
+    "Secretary": {
+        "name": "Secretary",
+        "description": "Find and correct someone's typo",
+        "challenge points": 2,
+        "bpc": 2,
+        "requirement": {
+            "manual": "secretary"
+        }
+    },
+    "Crowd sourcing": {
+        "name": "Crowd sourcing",
+        "description": "Write the annual report of the s[ck]rip(t|t?c)ie, explaining their awesome feats during the board year of 19-20",
+        "challenge points": 50,
+        "requirement": {
+            "manual": "crowd_sourcing"
+        }
+    },
+    "Adtvertorial": {
+        "name": "Adtvertorial",
+        "description": "Write a review about the online Crash & Compile",
+        "challenge points": 5,
+        "requirement": {
+            "manual": "adtvertorial"
+        }
+    }
+}

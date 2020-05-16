@@ -1,0 +1,110 @@
+[
+  {
+    "id": 2,
+    "username": "Buixieval",
+    "password": "sleftival",
+    "admin": 0
+  },
+  {
+    "id": 3,
+    "username": "Trambaan",
+    "password": "Geeeeert",
+    "admin": 0
+  },
+  {
+    "id": 4,
+    "username": "Teampje 1",
+    "password": "Achteruit",
+    "admin": 0
+  },
+  {
+    "id": 5,
+    "username": "Reza and friends",
+    "password": "Ingenious",
+    "admin": 0
+  },
+  {
+    "id": 6,
+    "username": "Team brewed force",
+    "password": "Hapjesmeisje",
+    "admin": 0
+  },
+  {
+    "id": 7,
+    "username": "117",
+    "password": "Daadkrachtig",
+    "admin": 0
+  },
+  {
+    "id": 8,
+    "username": "Drunk kandis",
+    "password": "Ik ben een kut kandi",
+    "admin": 0
+  },
+  {
+    "id": 9,
+    "username": "Team rr",
+    "password": "Team aa",
+    "admin": 0
+  },
+  {
+    "id": 10,
+    "username": "404groupnotfouund",
+    "password": "500servererror",
+    "admin": 0
+  },
+  {
+    "id": 11,
+    "username": "W&L DreamTeam",
+    "password": "HelloWorld",
+    "admin": 0
+  },
+  {
+    "id": 12,
+    "username": "Team Buizerd",
+    "password": "Buizenaandebrug",
+    "admin": 0
+  },
+  {
+    "id": 13,
+    "username": "Wie dit leest is een Henk",
+    "password": "Mijn naam is Henk",
+    "admin": 0
+  },
+  {
+    "id": 14,
+    "username": "C-man and T-bag",
+    "password": "Praat Nederlands met me",
+    "admin": 0
+  },
+  {
+    "id": 15,
+    "username": "Team B'code",
+    "password": "Ik heb Dors",
+    "admin": 0
+  },
+  {
+    "id": 16,
+    "username": "Ladies in LaTeX",
+    "password": "33 hoog",
+    "admin": 0
+  },
+  {
+    "id": 17,
+    "username": "BJongens",
+    "password": "Bitterballendibsmachine",
+    "admin": 0
+  },
+  {
+    "id": 18,
+    "username": "Casa & Compilare",
+    "password": "hoi",
+    "admin": 0
+  },
+  {
+    "id": 19,
+    "username": "   ",
+    "password": "   ",
+    "admin": 0
+  }
+]
